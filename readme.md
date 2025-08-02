@@ -26,6 +26,7 @@ npx react-setup-pro
 ### This will:
   - Copy a pre-configured template into your current directory
   - Automatically install all dependencies
+  - You're all set to start your new project
 
 
 ### 📁 Template Features
@@ -55,6 +56,22 @@ npm run dev
 ```
   - Customize your app structure and features as needed.
 
+
+### 🔄 Local Development (Optional)
+  -To test the CLI tool before publishing:
+  ```bash
+  git clone https://github.com/your-username/react-setup-pro.git
+  cd react-setup-pro
+  npm link
+  react-setup-pro
+  ```
+
+## 📝 License
+**MIT License © 2025 Mysterio**
+
+## 🤝 Contributions
+**Currently personal use only — but feel free to fork, customize, or suggest improvements.**
+
 | Tech           | Version  |
 |----------------|----------|
 | React          | 19.x     |
@@ -67,5 +84,3 @@ npm run dev
 | Framer Motion  | 12.x     |
 | SweetAlert2    | 11.x     |
 | React Icons    | 5.x      |
-
-**You're all set to start your new project
