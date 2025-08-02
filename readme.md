@@ -60,7 +60,7 @@ npm run dev
 ### 🔄 Local Development (Optional)
   -To test the CLI tool before publishing:
   ```bash
-  git clone https://github.com/your-username/react-setup-pro.git
+  git clone https://github.com/Mysterio-O/react-setup-pro.git
   cd react-setup-pro
   npm link
   react-setup-pro
