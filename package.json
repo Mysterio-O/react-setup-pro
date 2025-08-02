@@ -1,6 +1,6 @@
 {
   "name": "react-setup-pro", 
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React + Tailwind + Firebase + Axios starter setup by Mysterio",
   "main": "index.js",
   "bin": {
