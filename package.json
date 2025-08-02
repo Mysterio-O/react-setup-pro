@@ -1,0 +1,13 @@
+{
+  "name": "react-setup-pro", 
+  "version": "1.0.0",
+  "description": "React + Tailwind + Firebase + Axios starter setup by Mysterio",
+  "main": "index.js",
+  "bin": {
+    "react-setup-pro": "./index.js"
+  },
+  "author": "Mysterio",
+  "license": "MIT",
+  "private": false,
+  "keywords": ["react", "vite", "starter", "tailwind", "cli", "template", "setup"]
+}
