@@ -1,6 +1,6 @@
 {
   "name": "react-setup-pro",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "React + Tailwind + Firebase + Axios starter setup by Mysterio. Don't use npm i react-setup-pro, it will only install the dependencies. Use 'npx react-setup-pro <project-name>' to create a new project.",
   "main": "index.js",
   "bin": {
