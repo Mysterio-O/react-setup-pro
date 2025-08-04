@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosPublic = axios.create({
-    baseURL: `https://life-drop-server.vercel.app`
+    baseURL: `http://localhost:5000` // Change this to your public API base URL
 });
 
 const useAxiosPublic = () => {
