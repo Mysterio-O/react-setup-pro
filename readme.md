@@ -1,17 +1,5 @@
 # 🚀 react-setup-pro
 
-A personal React + Vite starter setup CLI tool by **Mysterio**, pre-configured with:
-
-- ⚛️ React 19 + React Router
-- 🎨 Tailwind CSS
-- 🔥 Firebase
-- 🔁 Axios
-- 🎯 TanStack React Query
-- 💥 Framer Motion
-- 🧠 ESLint & React Icons
-- 🍃 SweetAlert2
-- ✅ Vite for blazing fast development
-
 > Skip the boring setup — get started with all your favorite tools instantly!
 
 ---
@@ -21,12 +9,31 @@ A personal React + Vite starter setup CLI tool by **Mysterio**, pre-configured w
 You don’t need to install globally. Use it directly with `npx`:
 
 ```bash
-npx react-setup-pro
+npx react-setup-pro your-project-name
 ```
 ### This will:
-  - Copy a pre-configured template into your current directory
+  - Copy a pre-configured template into your newly created directory
   - Automatically install all dependencies
   - You're all set to start your new project
+  - Follow the home page directions to use all the features smoothly
+
+🚀 Features Included in This Template:
+
+- ⚛️ React 19 + React Router — for modern, component-based UI and navigation  
+- 🎨 Tailwind CSS — utility-first CSS framework for rapid styling  
+- 🌟 DaisyUI — Tailwind component library with dark theme support  
+- 🌓 Theme Provider — with toggle button (light/dark mode)  
+- 🔁 Axios — for promise-based HTTP requests  
+- 🎯 TanStack React Query — data fetching, caching, and state management  
+- 🔥 Firebase — authentication 
+- 💥 Motion — animation library for React  
+- 🧠 ESLint — JavaScript/React linting and best practices  
+- 🎨 React Icons — popular icon packs  
+- 🍬 SweetAlert2 — beautiful alert and modal dialogs  
+- ⚡ Vite — lightning-fast frontend build tool  
+
+
+
 
 
 ### 📁 Template Features

@@ -1,6 +1,6 @@
 {
   "name": "react-setup-pro",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "React + Tailwind + Firebase + Axios starter setup by Mysterio. Don't use npm i react-setup-pro, it will only install the dependencies. Use 'npx react-setup-pro <project-name>' to create a new project.",
   "main": "index.js",
   "bin": {
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "https://github.com/Mysterio-O/react-setup-pro"
   },
-  "homepage": "https://github.com/Mysterio-O/react-setup-pro#readme",
+  "homepage": "https://github.com/Mysterio-O/react-setup-pro/tree/main/examples",
   "dependencies": {
     "chalk": "^4.1.2",
     "ora": "^8.2.0",

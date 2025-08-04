@@ -13,6 +13,7 @@ const axiosPublicGuide = () => {
     /**
      *  suppose you need to fetch all post data which you want to show in the home page which is not protected by authentication.
      *  just call the hook.
+     *  change the base url in the hook to your public API base URL.
      */
 
     const axiosPublic = useAxiosPublic(); // called the hook to use it in the component
